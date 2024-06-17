@@ -61,7 +61,7 @@ elif [ "${MODE}" == "hostdown" ]; then
     HOST=""
     hostDown
 elif [ "${MODE}" == "networkup" ]; then
-    networkUo
+    networkUp
 elif [ "${MODE}" == "installCC" ]; then
     packageChaincode
     installChaincode
