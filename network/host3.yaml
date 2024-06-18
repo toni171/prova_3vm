@@ -9,6 +9,7 @@ volumes:
   orderer5.example.com:
   orderer6.example.com:
   peer0.org3.example.com:
+  peer1.org3.example.com:
 
 networks:
   byfn:
